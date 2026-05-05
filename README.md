@@ -15,7 +15,7 @@ G. Barreto and A. Neto. "Vertebral Column," UCI Machine Learning Repository, 200
 - Metrics: accuracy, precision, recall, f1-score and confusion matrix.
 - Validation: k-fold cross-validation.
 
-## How to run (example)
+## How to run
 1. Create environment:
    - python -m venv env
    - source env/bin/activate (Linux/macOS) or env\Scripts\activate (Windows)
