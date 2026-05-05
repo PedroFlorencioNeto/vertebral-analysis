@@ -10,16 +10,10 @@ Each record contains clinical attributes and a label indicating normality/abnorm
 
 G. Barreto and A. Neto. "Vertebral Column," UCI Machine Learning Repository, 2005. [Online]. Available: https://doi.org/10.24432/C5K89B.
 
-## Preprocessing
-- Cleaning missing values and outliers.
-- Normalization/standardization of features.
-- Creation of train/validation/test splits.
-- Possible balancing (SMOTE/undersampling) depending on class imbalance.
-
 ## Modeling and evaluation
-- Models considered: Logistic Regression, Random Forest, SVM, XGBoost (examples).
+- Model considered: XGBoost.
 - Metrics: accuracy, precision, recall, f1-score and confusion matrix.
-- Validation: k-fold cross-validation and hold-out for final evaluation.
+- Validation: k-fold cross-validation.
 
 ## How to run (example)
 1. Create environment:
